@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe33c048bce2a509334ab54b922e6a4f",
+    "revision": "dd47c700ba24590568242464866ccc8a",
     "url": "/papelab/index.html"
   },
   {
-    "revision": "e3df068b62f8bf5565ed",
+    "revision": "77298730ed62afe64f3d",
     "url": "/papelab/static/css/main.461c0bc4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/papelab/static/js/2.26c56aa7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e3df068b62f8bf5565ed",
-    "url": "/papelab/static/js/main.df8ac4a4.chunk.js"
+    "revision": "77298730ed62afe64f3d",
+    "url": "/papelab/static/js/main.6603f055.chunk.js"
   },
   {
     "revision": "7ff27401a750bb857b5b",
