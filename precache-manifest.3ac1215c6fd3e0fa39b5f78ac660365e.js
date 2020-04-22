@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd47c700ba24590568242464866ccc8a",
+    "revision": "c3d0b26f4f4290d8267368dec44a66c2",
     "url": "/papelab/index.html"
   },
   {
-    "revision": "77298730ed62afe64f3d",
-    "url": "/papelab/static/css/main.461c0bc4.chunk.css"
+    "revision": "294c087d2870e3d37824",
+    "url": "/papelab/static/css/main.8e7379a0.chunk.css"
   },
   {
     "revision": "ffbd8ff56dc768552bbc",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/papelab/static/js/2.26c56aa7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "77298730ed62afe64f3d",
-    "url": "/papelab/static/js/main.6603f055.chunk.js"
+    "revision": "294c087d2870e3d37824",
+    "url": "/papelab/static/js/main.01fa9ff7.chunk.js"
   },
   {
     "revision": "7ff27401a750bb857b5b",
@@ -38,5 +38,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "51151376f97183369734e22ed4acefa7",
     "url": "/papelab/static/media/star.border.51151376.svg"
+  },
+  {
+    "revision": "37f5965d25bdf2f114c8a45a836dc9fa",
+    "url": "/papelab/static/media/tag.37f5965d.svg"
+  },
+  {
+    "revision": "e6b5765c2e7187e031356123ea483103",
+    "url": "/papelab/static/media/tag.border.e6b5765c.svg"
   }
 ]);
