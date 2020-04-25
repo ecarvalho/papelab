@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/papelab/static/css/main.e54d2cab.chunk.css",
+    "main.css": "/papelab/static/css/main.bbf2c543.chunk.css",
     "main.js": "/papelab/static/js/main.01fa9ff7.chunk.js",
     "main.js.map": "/papelab/static/js/main.01fa9ff7.chunk.js.map",
     "runtime-main.js": "/papelab/static/js/runtime-main.543b446d.js",
@@ -8,16 +8,16 @@
     "static/js/2.26c56aa7.chunk.js": "/papelab/static/js/2.26c56aa7.chunk.js",
     "static/js/2.26c56aa7.chunk.js.map": "/papelab/static/js/2.26c56aa7.chunk.js.map",
     "index.html": "/papelab/index.html",
-    "precache-manifest.976e33272e02a4e3eb6fab78b22ab94b.js": "/papelab/precache-manifest.976e33272e02a4e3eb6fab78b22ab94b.js",
+    "precache-manifest.8c5276cdb4521e46d6ed2b980a63b14d.js": "/papelab/precache-manifest.8c5276cdb4521e46d6ed2b980a63b14d.js",
     "service-worker.js": "/papelab/service-worker.js",
-    "static/css/main.e54d2cab.chunk.css.map": "/papelab/static/css/main.e54d2cab.chunk.css.map",
+    "static/css/main.bbf2c543.chunk.css.map": "/papelab/static/css/main.bbf2c543.chunk.css.map",
     "static/js/2.26c56aa7.chunk.js.LICENSE.txt": "/papelab/static/js/2.26c56aa7.chunk.js.LICENSE.txt",
     "static/media/App.css": "/papelab/static/media/tag.37f5965d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.543b446d.js",
     "static/js/2.26c56aa7.chunk.js",
-    "static/css/main.e54d2cab.chunk.css",
+    "static/css/main.bbf2c543.chunk.css",
     "static/js/main.01fa9ff7.chunk.js"
   ]
 }
